@@ -1,0 +1,8 @@
+AI Search → Qualified Pipeline Portfolio Project,
+Goal,"Measure whether AI search reaches high-intent buyers and contributes to qualified pipeline, not merely visibility."
+Business question,"Are improvements in AI answer presence and accuracy followed by measurable buyer actions: AI referrals, branded demand, qualified opportunities and pipeline?"
+Project scope,16 weeks; 5 buyer prompts × 4 assistants = 20 weekly answers; GA4-style acquisition; GSC branded search; CRM opportunities; optional paid AI media.
+Core metrics,Brand Presence Rate; Linked Citation Rate; Answer Accuracy; AI Referral CVR; Branded Search Growth; AI Self-Reported Opportunities; Qualified Pipeline.
+Hypothesis,"Improving presence and accuracy on high-intent AI prompts should lead, with a lag, to more AI referral conversions, branded search and qualified opportunities."
+Suggested analysis,Baseline → intervention marker → weekly trend → lag analysis → funnel/attribution → recommendations.
+Important,All data in this workbook is synthetic and created for portfolio/testing purposes.

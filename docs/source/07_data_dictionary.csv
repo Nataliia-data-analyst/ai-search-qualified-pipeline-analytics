@@ -1,0 +1,9 @@
+Metric,Definition,Recommended calculation
+Brand Presence Rate,Share of saved AI answers that name the brand,SUM(Mentioned) / COUNT(answers)
+Linked Citation Rate,Share of answers that include a linked citation to brand,SUM(Linked_Citation) / COUNT(answers)
+Answer Accuracy,Accurate mentions among answers that name the brand,SUM(Accurate) / SUM(Mentioned)
+AI Referral CVR,Demo requests from identifiable AI referral sessions,SUM(Demo_Requests) / SUM(AI Referral Sessions)
+Branded Search Growth,Change in branded GSC impressions/clicks,(Current - Baseline) / Baseline
+AI Self-Reported Opps,CRM opportunities reporting AI assistant as discovery source,COUNT opportunities
+Qualified Pipeline,Value of qualified opportunities attributable/self-reported to AI,SUM opportunity value
+Paid AI ROAS proxy,Pipeline value per paid AI spend,Attributed Pipeline / Spend

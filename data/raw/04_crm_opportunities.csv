@@ -1,0 +1,121 @@
+Opportunity_ID,Created_Date,Self_Reported_Source,Qualified,Stage,Opportunity_Value_USD,Sales_Cycle_Days,Won
+OPP-001,2026-07-11,Organic Search,1,Qualified,"$15,763",66,0
+OPP-002,2026-08-06,Paid Search,1,Qualified,"$18,135",33,0
+OPP-003,2026-05-19,Direct,0,Qualified,"$27,747",38,0
+OPP-004,2026-07-07,Organic Search,1,Qualified,"$20,757",48,0
+OPP-005,2026-06-09,AI self-reported,1,Closed Lost,"$11,783",32,0
+OPP-006,2026-05-20,Organic Search,1,Qualified,"$27,245",27,0
+OPP-007,2026-06-26,Direct,1,Closed Won,"$15,951",30,1
+OPP-008,2026-06-14,Paid Search,1,Closed Won,"$16,281",45,1
+OPP-009,2026-07-07,Direct,1,Qualified,"$26,638",56,0
+OPP-010,2026-05-28,AI self-reported,1,Qualified,"$17,372",33,0
+OPP-011,2026-05-16,Organic Search,1,Qualified,"$19,458",43,0
+OPP-012,2026-07-11,AI self-reported,1,Qualified,"$20,605",25,0
+OPP-013,2026-08-19,AI self-reported,1,Closed Lost,"$11,551",21,0
+OPP-014,2026-07-13,Paid Search,1,Proposal,"$20,252",49,0
+OPP-015,2026-05-15,Paid Search,1,Closed Won,"$27,254",51,1
+OPP-016,2026-06-16,Organic Search,1,Closed Won,"$10,468",42,1
+OPP-017,2026-07-07,Organic Search,1,Qualified,"$14,260",58,0
+OPP-018,2026-07-05,Direct,1,Closed Lost,"$24,386",28,0
+OPP-019,2026-06-14,Paid Search,1,Qualified,"$11,839",62,0
+OPP-020,2026-05-26,Organic Search,0,Closed Won,"$12,009",39,1
+OPP-021,2026-05-23,Partner,0,Proposal,"$25,472",33,0
+OPP-022,2026-07-12,Direct,1,Closed Lost,"$27,464",33,0
+OPP-023,2026-06-10,Organic Search,0,Closed Won,"$16,922",56,1
+OPP-024,2026-06-15,Direct,1,Qualified,"$17,171",49,0
+OPP-025,2026-06-17,AI self-reported,1,Closed Won,"$11,958",46,1
+OPP-026,2026-07-04,Paid Search,1,Closed Lost,"$26,016",56,0
+OPP-027,2026-05-06,Paid Search,1,Closed Won,"$17,535",50,1
+OPP-028,2026-05-08,Paid Search,0,Qualified,"$18,253",26,0
+OPP-029,2026-07-22,Organic Search,1,Closed Won,"$21,398",44,1
+OPP-030,2026-06-16,Paid Search,1,Closed Won,"$16,269",57,1
+OPP-031,2026-07-26,Direct,1,Closed Won,"$9,159",48,1
+OPP-032,2026-06-19,Organic Search,0,Proposal,"$26,749",25,0
+OPP-033,2026-07-14,Direct,1,Closed Won,"$19,843",53,1
+OPP-034,2026-05-11,Paid Search,1,Proposal,"$19,343",38,0
+OPP-035,2026-05-17,Direct,1,Closed Won,"$24,248",54,1
+OPP-036,2026-07-05,Paid Search,1,Closed Lost,"$18,881",25,0
+OPP-037,2026-06-13,Partner,1,Qualified,"$11,507",34,0
+OPP-038,2026-08-09,Organic Search,0,Closed Lost,"$24,687",44,0
+OPP-039,2026-05-05,Direct,1,Qualified,"$26,570",56,0
+OPP-040,2026-08-15,Direct,0,Qualified,"$27,471",31,0
+OPP-041,2026-06-26,Organic Search,1,Closed Won,"$21,555",30,1
+OPP-042,2026-08-09,Paid Search,1,Closed Lost,"$24,498",59,0
+OPP-043,2026-08-09,Paid Search,0,Proposal,"$25,691",50,0
+OPP-044,2026-06-06,AI self-reported,1,Closed Won,"$25,479",23,1
+OPP-045,2026-05-21,AI self-reported,1,Qualified,"$17,192",32,0
+OPP-046,2026-07-01,Partner,0,Closed Won,"$25,171",37,1
+OPP-047,2026-07-06,Partner,1,Closed Won,"$15,938",39,1
+OPP-048,2026-08-15,Paid Search,0,Closed Lost,"$14,275",65,0
+OPP-049,2026-05-04,Paid Search,0,Proposal,"$19,653",33,0
+OPP-050,2026-05-04,Paid Search,0,Closed Won,"$10,246",51,1
+OPP-051,2026-08-10,Organic Search,1,Qualified,"$22,481",72,0
+OPP-052,2026-07-30,Paid Search,1,Qualified,"$27,163",50,0
+OPP-053,2026-06-02,Organic Search,1,Qualified,"$26,951",62,0
+OPP-054,2026-06-06,Organic Search,1,Proposal,"$10,992",68,0
+OPP-055,2026-08-10,Direct,1,Qualified,"$23,378",66,0
+OPP-056,2026-07-05,Direct,1,Qualified,"$11,704",53,0
+OPP-057,2026-06-15,Organic Search,1,Proposal,"$9,805",27,0
+OPP-058,2026-07-07,Direct,1,Proposal,"$23,633",53,0
+OPP-059,2026-06-30,Organic Search,1,Qualified,"$7,532",34,0
+OPP-060,2026-05-31,AI self-reported,1,Qualified,"$29,586",36,0
+OPP-061,2026-07-14,AI self-reported,1,Proposal,"$26,891",29,0
+OPP-062,2026-07-22,Organic Search,0,Proposal,"$22,224",47,0
+OPP-063,2026-05-24,AI self-reported,1,Qualified,"$23,997",45,0
+OPP-064,2026-05-26,Organic Search,0,Proposal,"$13,536",52,0
+OPP-065,2026-06-09,Direct,1,Closed Won,"$15,300",60,1
+OPP-066,2026-06-06,Paid Search,0,Proposal,"$8,566",42,0
+OPP-067,2026-05-16,AI self-reported,1,Closed Lost,"$23,409",22,0
+OPP-068,2026-06-19,Paid Search,1,Proposal,"$13,121",49,0
+OPP-069,2026-08-11,Direct,1,Closed Lost,"$9,586",50,0
+OPP-070,2026-05-24,Direct,1,Proposal,"$17,525",24,0
+OPP-071,2026-06-07,Paid Search,1,Qualified,"$21,545",33,0
+OPP-072,2026-08-20,Partner,0,Qualified,"$27,147",35,0
+OPP-073,2026-08-10,Partner,1,Closed Won,"$18,904",60,1
+OPP-074,2026-05-21,Partner,0,Closed Won,"$11,678",52,1
+OPP-075,2026-06-26,Organic Search,1,Closed Lost,"$19,003",64,0
+OPP-076,2026-05-05,Direct,0,Proposal,"$21,743",53,0
+OPP-077,2026-08-06,Organic Search,1,Qualified,"$17,301",52,0
+OPP-078,2026-05-15,Organic Search,1,Proposal,"$13,096",53,0
+OPP-079,2026-07-11,Organic Search,0,Qualified,"$14,031",47,0
+OPP-080,2026-07-02,Organic Search,0,Proposal,"$11,447",23,0
+OPP-081,2026-07-31,Paid Search,1,Closed Won,"$17,472",60,1
+OPP-082,2026-07-10,Direct,0,Closed Won,"$16,828",54,1
+OPP-083,2026-07-29,Direct,0,Closed Lost,"$10,976",48,0
+OPP-084,2026-05-31,AI self-reported,1,Proposal,"$9,861",20,0
+OPP-085,2026-07-13,Paid Search,0,Qualified,"$27,052",49,0
+OPP-086,2026-06-20,Partner,1,Closed Won,"$22,684",28,1
+OPP-087,2026-08-14,Direct,1,Closed Won,"$9,430",52,1
+OPP-088,2026-06-14,Organic Search,1,Qualified,"$25,065",52,0
+OPP-089,2026-05-17,Paid Search,1,Proposal,"$11,068",47,0
+OPP-090,2026-05-21,Paid Search,1,Closed Lost,"$14,388",41,0
+OPP-091,2026-06-06,AI self-reported,1,Qualified,"$27,049",30,0
+OPP-092,2026-07-20,Paid Search,1,Closed Won,"$24,481",62,1
+OPP-093,2026-07-15,Partner,1,Closed Lost,"$26,829",54,0
+OPP-094,2026-05-06,AI self-reported,1,Qualified,"$9,929",41,0
+OPP-095,2026-07-22,AI self-reported,1,Proposal,"$27,747",30,0
+OPP-096,2026-07-21,Organic Search,1,Closed Won,"$27,550",52,1
+OPP-097,2026-06-08,Paid Search,1,Closed Won,"$16,746",50,1
+OPP-098,2026-05-21,Paid Search,1,Proposal,"$22,867",25,0
+OPP-099,2026-05-19,Paid Search,0,Qualified,"$18,317",39,0
+OPP-100,2026-06-17,Direct,1,Proposal,"$10,479",23,0
+OPP-101,2026-06-04,Paid Search,0,Proposal,"$19,587",46,0
+OPP-102,2026-08-19,Partner,0,Closed Won,"$17,729",47,1
+OPP-103,2026-05-25,AI self-reported,1,Closed Lost,"$25,343",20,0
+OPP-104,2026-07-03,Organic Search,1,Closed Lost,"$19,885",44,0
+OPP-105,2026-05-28,Direct,0,Closed Won,"$26,579",54,1
+OPP-106,2026-06-30,Organic Search,0,Proposal,"$7,267",47,0
+OPP-107,2026-06-03,AI self-reported,1,Qualified,"$22,126",31,0
+OPP-108,2026-07-11,Organic Search,1,Proposal,"$25,128",31,0
+OPP-109,2026-06-27,AI self-reported,1,Closed Won,"$31,295",25,1
+OPP-110,2026-05-17,Partner,1,Closed Lost,"$19,907",82,0
+OPP-111,2026-07-11,Partner,1,Qualified,"$23,682",44,0
+OPP-112,2026-05-05,Organic Search,0,Closed Won,"$17,913",35,1
+OPP-113,2026-05-20,Direct,1,Proposal,"$27,089",32,0
+OPP-114,2026-07-18,AI self-reported,1,Closed Won,"$18,805",30,1
+OPP-115,2026-07-04,AI self-reported,1,Proposal,"$18,823",17,0
+OPP-116,2026-05-03,Paid Search,0,Closed Won,"$10,591",39,1
+OPP-117,2026-08-10,Partner,1,Closed Lost,"$26,559",56,0
+OPP-118,2026-08-09,Partner,1,Closed Won,"$25,955",30,1
+OPP-119,2026-07-14,Paid Search,1,Closed Won,"$19,458",23,1
+OPP-120,2026-05-05,Direct,1,Proposal,"$10,601",40,0

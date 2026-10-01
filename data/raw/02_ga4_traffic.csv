@@ -1,0 +1,97 @@
+Week,Channel_Group,Session_Source,Sessions,Demo_Requests,Qualified_Opps,Pipeline_Value_USD
+2026-05-04,Organic Search,google,1580,32,10,"$129,990"
+2026-05-04,AI Referral,chatgpt.com,7,0,0,$0
+2026-05-04,AI Referral,perplexity.ai,4,0,0,$0
+2026-05-04,AI Referral,gemini.google.com,3,0,0,$0
+2026-05-04,AI Referral,copilot.microsoft.com,3,0,0,$0
+2026-05-04,Direct,(direct),399,13,4,"$41,612"
+2026-05-11,Organic Search,google,1486,27,9,"$83,088"
+2026-05-11,AI Referral,chatgpt.com,11,1,0,$0
+2026-05-11,AI Referral,perplexity.ai,6,0,0,$0
+2026-05-11,AI Referral,gemini.google.com,5,0,0,$0
+2026-05-11,AI Referral,copilot.microsoft.com,4,0,0,$0
+2026-05-11,Direct,(direct),455,15,5,"$48,870"
+2026-05-18,Organic Search,google,1493,29,9,"$116,388"
+2026-05-18,AI Referral,chatgpt.com,10,0,0,$0
+2026-05-18,AI Referral,perplexity.ai,6,0,0,$0
+2026-05-18,AI Referral,gemini.google.com,5,0,0,$0
+2026-05-18,AI Referral,copilot.microsoft.com,4,0,0,$0
+2026-05-18,Direct,(direct),451,16,5,"$38,695"
+2026-05-25,Organic Search,google,1587,27,9,"$112,563"
+2026-05-25,AI Referral,chatgpt.com,15,1,0,$0
+2026-05-25,AI Referral,perplexity.ai,9,0,0,$0
+2026-05-25,AI Referral,gemini.google.com,7,0,0,$0
+2026-05-25,AI Referral,copilot.microsoft.com,5,0,0,$0
+2026-05-25,Direct,(direct),484,16,5,"$50,215"
+2026-06-01,Organic Search,google,1535,32,10,"$88,130"
+2026-06-01,AI Referral,chatgpt.com,17,1,0,$0
+2026-06-01,AI Referral,perplexity.ai,10,0,0,$0
+2026-06-01,AI Referral,gemini.google.com,8,0,0,$0
+2026-06-01,AI Referral,copilot.microsoft.com,6,0,0,$0
+2026-06-01,Direct,(direct),492,18,6,"$76,458"
+2026-06-08,Organic Search,google,1607,33,11,"$121,385"
+2026-06-08,AI Referral,chatgpt.com,17,1,0,$0
+2026-06-08,AI Referral,perplexity.ai,10,0,0,$0
+2026-06-08,AI Referral,gemini.google.com,8,0,0,$0
+2026-06-08,AI Referral,copilot.microsoft.com,6,0,0,$0
+2026-06-08,Direct,(direct),469,14,4,"$32,444"
+2026-06-15,Organic Search,google,1651,32,10,"$129,520"
+2026-06-15,AI Referral,chatgpt.com,23,2,1,"$8,265"
+2026-06-15,AI Referral,perplexity.ai,13,1,0,$0
+2026-06-15,AI Referral,gemini.google.com,10,1,0,$0
+2026-06-15,AI Referral,copilot.microsoft.com,8,1,0,$0
+2026-06-15,Direct,(direct),548,17,5,"$55,040"
+2026-06-22,Organic Search,google,1731,33,11,"$117,062"
+2026-06-22,AI Referral,chatgpt.com,22,1,0,$0
+2026-06-22,AI Referral,perplexity.ai,13,1,0,$0
+2026-06-22,AI Referral,gemini.google.com,10,1,0,$0
+2026-06-22,AI Referral,copilot.microsoft.com,8,0,0,$0
+2026-06-22,Direct,(direct),540,16,5,"$50,045"
+2026-06-29,Organic Search,google,1735,38,12,"$96,000"
+2026-06-29,AI Referral,chatgpt.com,27,2,1,"$10,725"
+2026-06-29,AI Referral,perplexity.ai,15,1,0,$0
+2026-06-29,AI Referral,gemini.google.com,12,1,0,$0
+2026-06-29,AI Referral,copilot.microsoft.com,10,1,0,$0
+2026-06-29,Direct,(direct),557,17,5,"$61,280"
+2026-07-06,Organic Search,google,1770,40,13,"$151,125"
+2026-07-06,AI Referral,chatgpt.com,25,2,1,"$8,681"
+2026-07-06,AI Referral,perplexity.ai,14,1,0,$0
+2026-07-06,AI Referral,gemini.google.com,11,1,0,$0
+2026-07-06,AI Referral,copilot.microsoft.com,9,1,0,$0
+2026-07-06,Direct,(direct),552,20,6,"$70,818"
+2026-07-13,Organic Search,google,1695,37,12,"$142,584"
+2026-07-13,AI Referral,chatgpt.com,29,2,1,"$7,023"
+2026-07-13,AI Referral,perplexity.ai,16,1,0,$0
+2026-07-13,AI Referral,gemini.google.com,13,1,0,$0
+2026-07-13,AI Referral,copilot.microsoft.com,10,1,0,$0
+2026-07-13,Direct,(direct),553,19,6,"$68,550"
+2026-07-20,Organic Search,google,1726,37,12,"$119,208"
+2026-07-20,AI Referral,chatgpt.com,30,3,1,"$8,949"
+2026-07-20,AI Referral,perplexity.ai,17,1,0,$0
+2026-07-20,AI Referral,gemini.google.com,13,1,0,$0
+2026-07-20,AI Referral,copilot.microsoft.com,11,1,0,$0
+2026-07-20,Direct,(direct),552,16,5,"$42,135"
+2026-07-27,Organic Search,google,1751,30,10,"$109,010"
+2026-07-27,AI Referral,chatgpt.com,36,3,1,"$10,672"
+2026-07-27,AI Referral,perplexity.ai,21,2,1,"$9,965"
+2026-07-27,AI Referral,gemini.google.com,16,1,0,$0
+2026-07-27,AI Referral,copilot.microsoft.com,13,1,0,$0
+2026-07-27,Direct,(direct),577,20,6,"$47,358"
+2026-08-03,Organic Search,google,1821,36,12,"$147,240"
+2026-08-03,AI Referral,chatgpt.com,37,3,1,"$7,255"
+2026-08-03,AI Referral,perplexity.ai,21,1,0,$0
+2026-08-03,AI Referral,gemini.google.com,17,1,0,$0
+2026-08-03,AI Referral,copilot.microsoft.com,13,1,0,$0
+2026-08-03,Direct,(direct),643,19,6,"$62,952"
+2026-08-10,Organic Search,google,1755,34,11,"$90,365"
+2026-08-10,AI Referral,chatgpt.com,39,3,1,"$7,538"
+2026-08-10,AI Referral,perplexity.ai,22,2,1,"$8,033"
+2026-08-10,AI Referral,gemini.google.com,17,1,0,$0
+2026-08-10,AI Referral,copilot.microsoft.com,14,1,0,$0
+2026-08-10,Direct,(direct),601,18,6,"$73,116"
+2026-08-17,Organic Search,google,1899,38,12,"$133,692"
+2026-08-17,AI Referral,chatgpt.com,40,3,1,"$11,959"
+2026-08-17,AI Referral,perplexity.ai,23,2,1,"$10,524"
+2026-08-17,AI Referral,gemini.google.com,18,1,0,$0
+2026-08-17,AI Referral,copilot.microsoft.com,14,1,0,$0
+2026-08-17,Direct,(direct),672,20,6,"$47,622"

@@ -1,0 +1,11 @@
+Page,Component,Dimension,Metric / Formula,Purpose
+1 Executive,Scorecards,Date range,"Presence, Accuracy, AI CVR, AI Pipeline",Top-level outcome
+1 Executive,Time series,Week,Presence Rate + Accuracy Rate,Leading indicators
+1 Executive,Time series,Week,AI Referral Sessions + AI Demos,Mid-funnel
+1 Executive,Time series,Week,Branded Impressions,Lagging demand signal
+2 Prompt Coverage,Matrix,Prompt × Assistant,Mentioned / Accurate,Find coverage gaps
+2 Prompt Coverage,Table,Buyer Prompt,"Presence, citation, accuracy",Prioritize prompts
+3 Acquisition,Channel comparison,Channel Group,"Sessions, Demo CVR, Qualified Opps",Compare AI vs organic/direct
+4 Pipeline,Funnel,Self-reported source,Opps → Won → Pipeline,Commercial outcome
+5 Paid AI,Platform,Platform,"Spend, CPC, CVR, Pipeline/Spend",Separate paid AI from organic AI visibility
+6 QA,Validation cards,Week,20 expected answers/week; missing data checks,Reporting reliability
